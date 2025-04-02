@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:cuda
-ollama/ollama:0.5.12
+clickhouse/clickhouse-server:latest
