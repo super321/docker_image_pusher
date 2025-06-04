@@ -1,1 +1,1 @@
-otel/opentelemetry-collector-contrib:v0.127.0
+otel/opentelemetry-collector-contrib:0.127.0
