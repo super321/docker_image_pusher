@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:latest
+otel/opentelemetry-collector-contrib:v0.127.0
