@@ -1,1 +1,1 @@
-kong:3.8
+frolvlad/alpine-bash-socat-iptables:latest
