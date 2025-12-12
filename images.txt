@@ -1,1 +1,1 @@
-frolvlad/alpine-bash-socat-iptables:latest
+rsmoorthy/sql2000:latest
