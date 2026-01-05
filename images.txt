@@ -1,1 +1,1 @@
-rsmoorthy/sql2000:latest
+ollama/ollama:0.13.5
