@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:cuda
+ollama/ollama:0.15.6
