@@ -1,1 +1,1 @@
-super321/iptv-tool:latest
+python:3.11-slim
