@@ -1,2 +1,1 @@
-postgres:18-alpine
-redis:8-alpine
+ollama/ollama:0.20.6
